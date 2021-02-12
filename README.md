@@ -1,4 +1,4 @@
-# EasyStego_AppExample
+# EasyStego - Example application
 
 ## A simple application to show what EasyStego can do.
  
