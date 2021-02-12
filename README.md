@@ -10,9 +10,9 @@ https://github.com/gabrielareia/EasyStego
 
 ## How to use
 
-If you want to only use the application you can download the executable from "Releases" on Github. Just extract the .zip to a folder and run the **"EasyStego_App.exe"**.
+If you want to only use the application, you can download the executable from "Releases" on Github. Just extract the .zip to a folder and run the **"EasyStego_App.exe"**.
 
-Now if you want to download the source code of the application and use it for testing the library and modify them in any way do the following:
+Now if you want to download the source code of the application and use it for testing the library and modify them in any way, do the following:
 
 **Clone this repo to a folder**. **Clone the [EasyStego](https://github.com/gabrielareia/EasyStego) to another folder**.
 
